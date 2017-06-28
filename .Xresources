@@ -2,7 +2,8 @@
 URxvt*termName:                       rxvt-256color
 URxvt*:borderLess:                    true
 URxvt*cursorBlink:                    true
-URxvt*font: xft:DejaVu Sans Mono for Powerline:size=9
+! URxvt*font: xft:DejaVu Sans Mono for Powerline:size=11
+URxvt*font: xft:Hack:size=11,style=Regular,xft:Symbola:size=9,style=Regular
 URxvt*jumpScroll:                     true
 
 URxvt*scrollBar:                      false
