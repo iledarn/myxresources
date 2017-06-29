@@ -55,3 +55,8 @@ URxvt.keysym.C-S-Up:   font-size:incglobal
 URxvt.keysym.C-S-Down: font-size:decglobal
 URxvt.keysym.C-equal:  font-size:reset
 URxvt.keysym.C-slash:  font-size:show
+
+!---- Rofi configuration
+rofi.location:                       1
+rofi.lines:                          10
+rofi.width:                          100
